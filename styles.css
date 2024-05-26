@@ -175,6 +175,9 @@ section p{
     align-items: center; 
     
 }
+.youtube-iframe {
+  border: none; 
+}
 
 .video-container iframe {
     position: absolute;
