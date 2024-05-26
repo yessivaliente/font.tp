@@ -96,3 +96,4 @@ function seekVideo() {
     var time = (value / 100) * duration;
     player.seekTo(time);
 }
+
